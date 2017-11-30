@@ -28,7 +28,7 @@ public class Rectangle {
 			height= h;
 		}
 		else {
-			System.out.println("Width must be positive. Width not set");
+			System.out.println("Height must be positive. Height not set");
 		}
 	}
 	//getters
